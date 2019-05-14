@@ -8,5 +8,4 @@ The user can choose any of these songs to play. The audio files are provided by 
 * Bootstrap
 * Deezer API
 
-##Time Spend
-6 hours
+
