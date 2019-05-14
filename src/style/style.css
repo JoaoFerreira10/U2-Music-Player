@@ -1,0 +1,12 @@
+.music-item:hover {
+    cursor: pointer;
+    background: #c70100 !important;
+}
+
+.audio-player{
+    position: sticky;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
